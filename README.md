@@ -31,8 +31,6 @@ export default {
 ```javascript
 this.$emit("click", this.text);  //将text传给父组件
 ```
-<img src='' width=400></img>
-
 
 ### 胜负判定机理
 设置一个map记录每个格子的状态
